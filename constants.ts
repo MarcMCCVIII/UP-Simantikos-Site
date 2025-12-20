@@ -18,7 +18,7 @@ export const EVENTS: Event[] = [
     id: '2',
     title: 'Seminars and Symposiums',
     date: 'Various Dates',
-    description: 'Showcasing undergraduate research papers and statistical models developed by our members.',
+    description: 'Showcasing research papers and statistical models developed by our members and faculty.',
     image: 'https://i.imgur.com/igewefJ.jpeg',
   },
   {
